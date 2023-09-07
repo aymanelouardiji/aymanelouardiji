@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayman</h1>
-<h3 align="center">A full stack dev from morocco</h3>
+
 
 - 📫 How to reach me **elouardijiayman@gmail.com**
 
